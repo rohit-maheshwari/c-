@@ -1,2 +1,2 @@
 # c-
-Welcome to my c# repository. As I build my skills to learn this language, I will post some code samples or mini projects.
+Welcome to my C# repository! As I build my skills to learn this language, I will post some code samples or projects. Thanks for visiting!
